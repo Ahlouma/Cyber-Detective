@@ -1,4 +1,0 @@
-# Optional: place under supabase/config.toml if you use the Supabase CLI locally.
-# Edge Function JWT verification stays ON (default) so only signed-in (anonymous) users can call submit-quiz.
-[functions.submit-quiz]
-verify_jwt = true
