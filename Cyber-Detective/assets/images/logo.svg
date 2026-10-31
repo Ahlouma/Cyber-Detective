@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Cyber Detective logo">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8C8DC"/><stop offset="1" stop-color="#EFA6C5"/></linearGradient></defs>
+  <circle cx="27" cy="27" r="17" fill="url(#g)" stroke="#39283D" stroke-width="4"/>
+  <path d="M17 22a12 12 0 0 1 9-7" fill="none" stroke="#FFF9F7" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40 40l16 16" stroke="#39283D" stroke-width="7" stroke-linecap="round"/>
+  <path d="M27 31v-9m-4 4.5h8" stroke="#39283D" stroke-width="0" />
+  <path d="M27 20l1.8 4.4 4.4 1.8-4.4 1.8L27 32.4l-1.8-4.4-4.4-1.8 4.4-1.8z" fill="#FFF9F7"/>
+  <path d="M52 10c-4-2-8 1-6 5 3 0 6-1 6-5zm0 0c4-2 8 1 6 5-3 0-6-1-6-5z" fill="#D875A5" stroke="#39283D" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="52" cy="10" r="2" fill="#39283D"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 440" role="img" aria-label="A magnifying glass with a pink bow revealing a keyhole on a letter">
+  <defs>
+    <linearGradient id="lens" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF9F7"/><stop offset=".55" stop-color="#F8C8DC"/><stop offset="1" stop-color="#DCCCF5"/></linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF9F7"/><stop offset="1" stop-color="#F6E3EA"/></linearGradient>
+  </defs>
+  <ellipse cx="240" cy="404" rx="170" ry="18" fill="#39283D" opacity=".08"/>
+  <g transform="rotate(-6 150 300)">
+    <rect x="46" y="236" width="230" height="160" rx="14" fill="url(#paper)" stroke="#39283D" stroke-opacity=".25" stroke-width="2"/>
+    <path d="M52 244l109 76 109-76" fill="none" stroke="#39283D" stroke-opacity=".2" stroke-width="2"/>
+    <path d="M78 372h92M78 354h132" stroke="#D875A5" stroke-opacity=".5" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="270" cy="168" r="112" fill="url(#lens)" stroke="#39283D" stroke-width="12"/>
+    <path d="M190 128a92 92 0 0 1 64-50" fill="none" stroke="#FFF9F7" stroke-width="10" stroke-linecap="round" opacity=".9"/>
+    <circle cx="270" cy="168" r="112" fill="none" stroke="#D875A5" stroke-width="3" stroke-dasharray="3 12" stroke-linecap="round" transform="scale(.9) translate(30 18.7)"/>
+    <g fill="#39283D">
+      <circle cx="270" cy="150" r="22"/>
+      <path d="M258 160h24l8 46h-40z"/>
+    </g>
+    <circle cx="270" cy="150" r="8" fill="#F8C8DC"/>
+    <path d="M270 163v28" stroke="#F8C8DC" stroke-width="7" stroke-linecap="round"/>
+    <path d="M354 250l82 108" stroke="#39283D" stroke-width="26" stroke-linecap="round"/>
+    <path d="M354 250l82 108" stroke="#D875A5" stroke-width="10" stroke-linecap="round" opacity=".6"/>
+  </g>
+  <g transform="translate(398 306) rotate(28)">
+    <path d="M0 0c-34-30-70-8-52 24 22 8 52-6 52-24z" fill="#EFA6C5" stroke="#39283D" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M0 0c34-30 70-8 52 24-22 8-52-6-52-24z" fill="#F8C8DC" stroke="#39283D" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M0 6c-8 22-22 36-34 44M0 6c8 22 22 36 34 44" fill="none" stroke="#39283D" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="10" fill="#D875A5" stroke="#39283D" stroke-width="5"/>
+  </g>
+  <g fill="#D875A5">
+    <path class="tw" d="M92 120l5 13 13 5-13 5-5 13-5-13-13-5 13-5z"/>
+    <path class="tw" d="M430 70l4 10 10 4-10 4-4 10-4-10-10-4 10-4z" fill="#EFA6C5"/>
+    <path class="tw" d="M60 220l3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill="#DCCCF5"/>
+  </g>
+</svg>
