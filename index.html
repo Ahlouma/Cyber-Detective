@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cyber Detective</title>
+<meta name="description" content="Investigate. Decide. Stay Safe. A bilingual cybersecurity awareness game.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="bg" aria-hidden="true"></div>
+<header class="top">
+  <div class="brand"><span class="logo" aria-hidden="true">🔍</span><b>Cyber Detective</b></div>
+  <div id="bar" class="barwrap" hidden>
+    <div class="barline"><span id="barText"></span><span id="scoreText"></span></div>
+    <div class="track" role="progressbar" aria-valuemin="0" aria-valuemax="100" id="track"><i id="fill"></i></div>
+  </div>
+  <button id="langBtn" class="ghost" hidden></button>
+</header>
+<main id="app" tabindex="-1"></main>
+<noscript>Please enable JavaScript to play Cyber Detective.</noscript>
+<script src="script.js"></script>
+</body>
+</html>
